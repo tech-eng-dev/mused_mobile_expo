@@ -1,3 +1,5 @@
+## mused_mobile_expo(React Native application)
+
 ## Development
 * `Expo XDE` - download on your Mac
 * `https://expo.io/learn` - Expo guideline
